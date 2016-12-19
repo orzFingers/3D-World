@@ -1,0 +1,283 @@
+# depslib dependency file v1.0
+1425256575 source:d:\alien_scientist_experiments\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<Box2D/Box2D.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Debug_Draw.h"
+	"box2D_functions.h"
+	"Flying_Vehicle.h"
+	"Character.h"
+	"Sun.h"
+	"Layer.h"
+	"Weather.h"
+	"Building.h"
+	"File_Handler.h"
+	"Menu.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1425089191 d:\alien_scientist_experiments\constants.h
+
+1427934667 d:\alien_scientist_experiments\images.h
+
+1424975167 d:\alien_scientist_experiments\world.h
+
+1420947641 d:\alien_scientist_experiments\layer.h
+
+1424975149 d:\alien_scientist_experiments\world_handler.h
+
+1420670950 d:\alien_scientist_experiments\file_handler.h
+
+1419787249 d:\alien_scientist_experiments\sun.h
+
+1420705003 d:\alien_scientist_experiments\weather.h
+
+1424235062 d:\alien_scientist_experiments\menu.h
+
+1421963014 d:\alien_scientist_experiments\input.h
+
+1419925474 d:\alien_scientist_experiments\joystick.h
+
+1419990298 d:\alien_scientist_experiments\debug_draw.h
+	<windows.h>
+	<gl/Gl.h>
+	<gl/Glu.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+
+1427934667 d:\alien_scientist_experiments\box2d_functions.h
+
+1421765644 d:\alien_scientist_experiments\character.h
+
+1420935918 d:\alien_scientist_experiments\inclusive_data.h
+
+1421622614 d:\alien_scientist_experiments\building.h
+
+1421785201 d:\alien_scientist_experiments\flying_vehicle.h
+
+1425256575 source:d:\games\alien_scientist_experiments\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<Box2D/Box2D.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"Debug_Draw.h"
+	"box2D_functions.h"
+	"Flying_Vehicle.h"
+	"Character.h"
+	"Sun.h"
+	"Layer.h"
+	"Weather.h"
+	"Building.h"
+	"File_Handler.h"
+	"Menu.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1425089191 d:\games\alien_scientist_experiments\constants.h
+
+1427934667 d:\games\alien_scientist_experiments\images.h
+
+1419990298 d:\games\alien_scientist_experiments\debug_draw.h
+	<windows.h>
+	<gl/Gl.h>
+	<gl/Glu.h>
+	<cstdio>
+	<cstdarg>
+	<cstring>
+
+1427934667 d:\games\alien_scientist_experiments\box2d_functions.h
+
+1421785201 d:\games\alien_scientist_experiments\flying_vehicle.h
+
+1421765644 d:\games\alien_scientist_experiments\character.h
+
+1419787249 d:\games\alien_scientist_experiments\sun.h
+
+1420947641 d:\games\alien_scientist_experiments\layer.h
+
+1420705003 d:\games\alien_scientist_experiments\weather.h
+
+1421622614 d:\games\alien_scientist_experiments\building.h
+
+1420670950 d:\games\alien_scientist_experiments\file_handler.h
+
+1424235062 d:\games\alien_scientist_experiments\menu.h
+
+1424975149 d:\games\alien_scientist_experiments\world_handler.h
+
+1421963014 d:\games\alien_scientist_experiments\input.h
+
+1424975167 d:\games\alien_scientist_experiments\world.h
+
+1428362887 source:d:\games\last minute copilot\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"D3_World.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1428362759 d:\games\last minute copilot\constants.h
+
+1430970234 d:\games\last minute copilot\images.h
+
+1427951204 d:\games\last minute copilot\world_handler.h
+
+1428046136 d:\games\last minute copilot\input.h
+
+1427951204 d:\games\last minute copilot\world.h
+
+1429497559 d:\games\last minute copilot\d3_world.h
+
+1428046017 source:\\saucytart-pc\maelstrom storage\games\last minute copilot\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"D3_World.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1428043726 \\saucytart-pc\maelstrom storage\games\last minute copilot\constants.h
+
+1428044616 \\saucytart-pc\maelstrom storage\games\last minute copilot\images.h
+
+1428086832 \\saucytart-pc\maelstrom storage\games\last minute copilot\d3_world.h
+
+1427951204 \\saucytart-pc\maelstrom storage\games\last minute copilot\world_handler.h
+
+1428046136 \\saucytart-pc\maelstrom storage\games\last minute copilot\input.h
+
+1427951204 \\saucytart-pc\maelstrom storage\games\last minute copilot\world.h
+
+1443146052 source:f:\games\last minute copilot\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"D3_World.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1443146052 f:\games\last minute copilot\constants.h
+
+1430966634 f:\games\last minute copilot\images.h
+
+1429493959 f:\games\last minute copilot\d3_world.h
+
+1427947604 f:\games\last minute copilot\world_handler.h
+
+1428042536 f:\games\last minute copilot\input.h
+
+1427947604 f:\games\last minute copilot\world.h
+
+1481847863 source:c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\main.cpp
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_color.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<math.h>
+	<time.h>
+	"constants.h"
+	"images.h"
+	"D3_World.h"
+	"World_Handler.h"
+	"Input.h"
+	"world.h"
+
+1481847884 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\constants.h
+
+1481742694 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\images.h
+
+1481847931 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\d3_world.h
+
+1481742694 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\world_handler.h
+
+1481742694 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\input.h
+
+1481742694 c:\users\xenya\downloads\last minute copilot no changes\last minute copilot\world.h
+
